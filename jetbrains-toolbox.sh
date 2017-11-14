@@ -4,7 +4,7 @@
 echo -e " \e[94mInstalling Jetbrains Toolbox\e[39m"
 echo ""
 
-URL="https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.0.2095.tar.gz"
+URL="https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.5.2871.tar.gz"
 
 FILE=$(basename ${URL})
 
